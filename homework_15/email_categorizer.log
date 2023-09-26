@@ -1,0 +1,6 @@
+INFO:root:���Ѭ�֬Ԭ��ڬ٬Ѭ�ڬ� ����֬�߬� �٬ѬӬ֬��֬߬�. ���֬٬�ݬ��Ѭ�� �����Ѭ߬֬߬� �� result.csv.
+ERROR:root:����ڬҬܬ� ���� ���֬߬ڬ� YAML-��Ѭ۬ݬ�: 'cp949' codec can't decode byte 0xd1 in position 26: illegal multibyte sequence
+ERROR:root:����ڬҬܬ� ���� ���֬߬ڬ� YAML-��Ѭ۬ݬ�: 'cp949' codec can't decode byte 0xd1 in position 26: illegal multibyte sequence
+ERROR:root:����ڬҬܬ� ���� ���֬߬ڬ� YAML-��Ѭ۬ݬ�: 'cp949' codec can't decode byte 0xd1 in position 58: illegal multibyte sequence
+INFO:root:���Ѭ�֬Ԭ��ڬ٬Ѭ�ڬ� ����֬�߬� �٬ѬӬ֬��֬߬�. ���֬٬�ݬ��Ѭ�� �����Ѭ߬֬߬� �� .\result1.csv.
+INFO:root:���Ѭ�֬Ԭ��ڬ٬Ѭ�ڬ� ����֬�߬� �٬ѬӬ֬��֬߬�. ���֬٬�ݬ��Ѭ�� �����Ѭ߬֬߬� �� .\result3.csv.
